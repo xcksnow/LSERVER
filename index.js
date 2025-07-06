@@ -1,10 +1,3 @@
-/* 
-*   DroiDrop
-*   An Android Monitoring Tool
-*   By VoidTyphoon.co.uk
-*/
-
-
 const
     express = require('express'),
     app = express(),
